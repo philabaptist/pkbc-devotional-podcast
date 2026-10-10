@@ -6,7 +6,14 @@
   <description>박정호 목사 개인 아침 일정 음성입니다. 링크를 아는 사람만 쓰는 개인용 피드입니다.</description>
   <language>ko</language>
   <itunes:block>Yes</itunes:block>
-  <lastBuildDate>Fri, 09 Oct 2026 06:45:27 -0400</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 06:45:31 -0400</lastBuildDate>
+  <item>
+   <title>일정브리핑_2026-10-10</title>
+   <description>일정브리핑_2026-10-10</description>
+   <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/b-7f3c91e2a4d6/%EC%9D%BC%EC%A0%95%EB%B8%8C%EB%A6%AC%ED%95%91_2026-10-10.mp3" length="637200" type="audio/mpeg"/>
+   <guid isPermaLink="false">일정브리핑_2026-10-10</guid>
+   <pubDate>Sat, 10 Oct 2026 06:45:31 -0400</pubDate>
+  </item>
   <item>
    <title>일정브리핑_2026-10-09</title>
    <description>일정브리핑_2026-10-09</description>
