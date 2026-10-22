@@ -6,7 +6,21 @@
   <description>필라델피아 한인침례교회 박정호 목사 개인 묵상 음성입니다. 링크를 아는 사람만 접근하는 비공개 피드입니다.</description>
   <language>ko</language>
   <itunes:block>Yes</itunes:block>
-  <lastBuildDate>Wed, 21 Oct 2026 13:50:49 -0400</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 14:39:31 -0400</lastBuildDate>
+  <item>
+   <title>묵상영어_2026-10-24_slow</title>
+   <description>묵상영어_2026-10-24_slow</description>
+   <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/%EB%AC%B5%EC%83%81%EC%98%81%EC%96%B4_2026-10-24_slow.mp3" length="1799136" type="audio/mpeg"/>
+   <guid isPermaLink="false">묵상영어_2026-10-24_slow</guid>
+   <pubDate>Tue, 20 Oct 2026 13:31:39 -0400</pubDate>
+  </item>
+  <item>
+   <title>묵상영어_2026-10-24_normal</title>
+   <description>묵상영어_2026-10-24_normal</description>
+   <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/%EB%AC%B5%EC%83%81%EC%98%81%EC%96%B4_2026-10-24_normal.mp3" length="1499904" type="audio/mpeg"/>
+   <guid isPermaLink="false">묵상영어_2026-10-24_normal</guid>
+   <pubDate>Tue, 20 Oct 2026 13:31:36 -0400</pubDate>
+  </item>
   <item>
    <title>묵상영어_2026-10-23_slow</title>
    <description>묵상영어_2026-10-23_slow</description>
@@ -34,20 +48,6 @@
    <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/%EB%AC%B5%EC%83%81%EC%98%81%EC%96%B4_2026-10-22_normal.mp3" length="1391616" type="audio/mpeg"/>
    <guid isPermaLink="false">묵상영어_2026-10-22_normal</guid>
    <pubDate>Sun, 18 Oct 2026 13:31:01 -0400</pubDate>
-  </item>
-  <item>
-   <title>묵상영어_2026-10-21_slow</title>
-   <description>묵상영어_2026-10-21_slow</description>
-   <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/%EB%AC%B5%EC%83%81%EC%98%81%EC%96%B4_2026-10-21_slow.mp3" length="1622880" type="audio/mpeg"/>
-   <guid isPermaLink="false">묵상영어_2026-10-21_slow</guid>
-   <pubDate>Sat, 17 Oct 2026 13:30:54 -0400</pubDate>
-  </item>
-  <item>
-   <title>묵상영어_2026-10-21_normal</title>
-   <description>묵상영어_2026-10-21_normal</description>
-   <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/%EB%AC%B5%EC%83%81%EC%98%81%EC%96%B4_2026-10-21_normal.mp3" length="1353024" type="audio/mpeg"/>
-   <guid isPermaLink="false">묵상영어_2026-10-21_normal</guid>
-   <pubDate>Sat, 17 Oct 2026 13:30:53 -0400</pubDate>
   </item>
  </channel>
 </rss>
