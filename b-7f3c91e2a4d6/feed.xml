@@ -6,7 +6,14 @@
   <description>박정호 목사 개인 아침 일정 음성입니다. 링크를 아는 사람만 쓰는 개인용 피드입니다.</description>
   <language>ko</language>
   <itunes:block>Yes</itunes:block>
-  <lastBuildDate>Sat, 24 Oct 2026 06:46:03 -0400</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 06:45:47 -0400</lastBuildDate>
+  <item>
+   <title>일정브리핑_2026-10-25</title>
+   <description>일정브리핑_2026-10-25</description>
+   <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/b-7f3c91e2a4d6/%EC%9D%BC%EC%A0%95%EB%B8%8C%EB%A6%AC%ED%95%91_2026-10-25.mp3" length="1305504" type="audio/mpeg"/>
+   <guid isPermaLink="false">일정브리핑_2026-10-25</guid>
+   <pubDate>Sun, 25 Oct 2026 06:45:47 -0400</pubDate>
+  </item>
   <item>
    <title>일정브리핑_2026-10-24</title>
    <description>일정브리핑_2026-10-24</description>
@@ -20,13 +27,6 @@
    <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/b-7f3c91e2a4d6/%EC%9D%BC%EC%A0%95%EB%B8%8C%EB%A6%AC%ED%95%91_2026-10-23.mp3" length="1778688" type="audio/mpeg"/>
    <guid isPermaLink="false">일정브리핑_2026-10-23</guid>
    <pubDate>Fri, 23 Oct 2026 06:46:01 -0400</pubDate>
-  </item>
-  <item>
-   <title>일정브리핑_2026-10-22</title>
-   <description>일정브리핑_2026-10-22</description>
-   <enclosure url="https://philabaptist.github.io/pkbc-devotional-podcast/b-7f3c91e2a4d6/%EC%9D%BC%EC%A0%95%EB%B8%8C%EB%A6%AC%ED%95%91_2026-10-22.mp3" length="1163808" type="audio/mpeg"/>
-   <guid isPermaLink="false">일정브리핑_2026-10-22</guid>
-   <pubDate>Thu, 22 Oct 2026 06:46:48 -0400</pubDate>
   </item>
  </channel>
 </rss>
